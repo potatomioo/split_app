@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">split_app</string>
     <string name="default_web_client_id">\"web client id\"</string>
+    <string name="web_client_id">280065041634-08vjbkjqvjmpl24nuplrl47dicvl92v3.apps.googleusercontent.com</string>
 </resources>
